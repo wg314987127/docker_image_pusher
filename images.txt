@@ -1,2 +1,3 @@
 openjdk:8-jdk-alpine
 elasticsearch:7.10.1
+kibana:7.10.1
