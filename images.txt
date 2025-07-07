@@ -1,1 +1,1 @@
-grafana/grafana:11.6.1
+emqx/emqx-enterprise:5.9
