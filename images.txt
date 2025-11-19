@@ -1,1 +1,1 @@
-kbudde/rabbitmq-exporter:1.0.0
+influxdb:2.7.6
